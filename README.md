@@ -11,7 +11,7 @@ En total hay 6 retos y 6 entradas para campus party, si aun no tienes tu entrada
 | Cipher | No |  |
 | A new security policy standard | No |  |
 | Foogle | No |  |
-| Information leak | No |  |
+| Information leak | Si | nredbugs |
 | We can fix it! | No |  |
 
 
