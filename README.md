@@ -1,5 +1,5 @@
 # CTF-CPMX9
-Hola y bienvenido a este pequeño [CTF](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) donde podrás participar para ganar 1 entrada totalmente gratis y asistir a campus party 2018.
+Hola y bienvenido a este pequeño [CTF](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) donde podrás participar para ganar 1 entrada y asistir a campus party 2018 totalmente gratis.
 
 # Status de los retos
 
