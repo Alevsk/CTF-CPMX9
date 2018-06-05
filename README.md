@@ -34,7 +34,7 @@ Suerte y happy hacking.
 
 ## 0x01 - 8.8.8.8 or 1.1.1.1?
 
-A **Dan Kaminsky** le gusta ( ͡ ͡° ͜ ʖ ͡ ͡°) www.alevsk.com
+A **Dan Kaminsky** le gusta ( ͡° ͜ ʖ ͡°) www.alevsk.com
 
 ## 0x02 - Cipher
 
