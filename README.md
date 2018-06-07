@@ -9,7 +9,7 @@ En total hay 6 retos y 6 entradas para campus party, si aun no tienes tu entrada
 |--|--|--|
 | 8.8.8.8 or 1.1.1.1? | Si | todmephis |
 | Cipher | No |  |
-| A new security policy standard | No |  |
+| A new security policy standard | Si | caballo |
 | Foogle | Si | nightwolfx2 |
 | Information leak | Si | nredbugs |
 | We can fix it! | Si | antremo |
